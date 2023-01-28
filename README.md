@@ -31,9 +31,8 @@ A social media app.
 <b>Utilized:</b> Next.js | TS | Firebase | Tailwind
 
 A Netflix clone website with database of information related to movies, television programs and shows.
-Node.js/Vue.js website with database of information related to movies, television programs and shows.
 
-Features: adding movies, updating/deleting movies, user registration and authentification, submiting reviews for movies, updating user info etc.
+Features: adding movies, updating/deleting movies, user registration and authentication, submitting reviews for movies, updating user info etc.
 
 ### [📨 Members Only](https://github.com/justEstif/project_members_only_client)
 
