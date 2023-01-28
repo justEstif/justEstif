@@ -11,7 +11,7 @@ projects to display the skills I have learned. My work ethic is strong, and I'm 
 
 ## ⚡ Fun facts:
 
-- 🚵🏽‍♂ I'm a big fan of mountain biking, hoping to work my way towards more challenging trails.
+- 🚵 I'm a big fan of mountain biking, hoping to work my way towards more challenging trails.
 - Currently reading [The Wheel of Time Series by Robert Jordan](https://www.goodreads.com/series/41526-the-wheel-of-time).
 
 <br>
