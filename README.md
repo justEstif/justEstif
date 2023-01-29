@@ -1,6 +1,5 @@
 <img src="assets/background.gif" alt="background pic" align="center">
-<h1 align="center">Hi, I'm Estifanos ☕</h1>
-
+  <h1 align="center">Hi, I'm <a href="https://www.estif.dev/projects" target="_blank">Estifanos ☕</a></h1>
 ## 🧐 About Me
 
 Self-taught software developer specializing in JavaScript seeking to pursue my passion and start a new
