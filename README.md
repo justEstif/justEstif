@@ -11,13 +11,13 @@ projects to display the skills I have learned. My work ethic is strong, and I'm 
 ## ⚡ Fun facts:
 
 - 🚵 I'm a big fan of mountain biking, hoping to work my way towards more challenging trails.
-- Currently reading [The Wheel of Time Series by Robert Jordan](https://www.goodreads.com/series/41526-the-wheel-of-time).
+- 📚 Currently reading [The Wheel of Time Series by Robert Jordan](https://www.goodreads.com/series/41526-the-wheel-of-time) and [Practical Vim by Drew Neil](https://pragprog.com/titles/dnvim2/practical-vim-second-edition/).
 
 <br>
 
 ## Current Project
 
-### OdinBook
+### 🫂 OdinBook
 
 <b>Utilized</b>: Express | React | Prisma(Postgresql) | Tailwind
 
@@ -25,7 +25,13 @@ A social media app.
 
 ## Some Past Projects
 
-### [NextFlix Clone](https://github.com/justEstif/project-final-javascript)
+### [📜 Blog Api](https://github.com/justEstif/project-blog-api-client)
+
+<b>Utilized:</b> React | JS | Postgresql | AWS | Styled-Components
+
+Features are user registration and authentication, adding posts, updating/deleting post, commenting posts etc.
+
+### [📺 NextFlix Clone](https://github.com/justEstif/project-final-javascript)
 
 <b>Utilized:</b> Next.js | TS | Firebase | Tailwind
 
@@ -39,8 +45,4 @@ Features: adding movies, updating/deleting movies, user registration and authent
 
 A message board that limits the information based on jwt token.
 
-### [📜 Blog Api](https://github.com/justEstif/project-blog-api-client)
-
-<b>Utilized:</b> React | JS | Postgresql | AWS | Styled-Components
-
-Features are user registration and authentication, adding posts, updating/deleting post, commenting posts etc.
+<a href="https://docs.google.com/document/d/1Sor8F-lVTe1fKXsGhptD9Hqi3_W31U6kORfLliCpmOA/export?format=pdf">Resume</a>
