@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi, I'm <a href="https://www.estif.dev/" target="_blank">Estifanos</a></h1>
 
-## 🧐 About Me
+## About Me
 
 Self-taught software developer specializing in JavaScript seeking to pursue my passion and start a new
 career in tech. I have been self-learning since the beginning of 2020 and have created several personal
@@ -33,14 +33,14 @@ Features are user registration and authentication, adding posts, updating/deleti
 
 A message board that limits the information based on jwt token.
 
-### [Instagram Clone](https://github.com/justEstif/project-js-final-instagram-clone)
-
-**Utilized:** React | Vite | Firebase | Tailwind
-
-An Instagram clone website with users, post and following capabilities.
-
 ### [NextFlix Clone](https://github.com/justEstif/project-final-javascript)
 
 **Utilized:** Next.js | TS | Firebase | Tailwind
 
 A Netflix clone website with database of information related to movies, television programs and shows.
+
+### [Instagram Clone](https://github.com/justEstif/project-js-final-instagram-clone)
+
+**Utilized:** React | Vite | Firebase | Tailwind | React Router DOM
+
+An Instagram clone website with users, post and following capabilities.
