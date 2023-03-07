@@ -9,7 +9,7 @@ Self-taught software developer specializing in JavaScript seeking to pursue my p
 career in tech. I have been self-learning since the beginning of 2020 and have created several personal
 projects to display the skills I have learned. My work ethic is strong, and I'm eager to learn new things. I am very detail-oriented and have excellent problem-solving skills, which allow me to provide high-quality code to help create great products that live up to client expectations. I am also an ambitious, persistent, and responsible person with the ability for individual and team work.
 
-### <a href="https://docs.google.com/document/d/1Sor8F-lVTe1fKXsGhptD9Hqi3_W31U6kORfLliCpmOA/export?format=pdf">Resume</a>
+### <a href="https://docs.google.com/document/d/1wnU5Nzkt8bAnsdWdHVcVqOqcqYUTQ3wLpyXO1e1hatc/export?format=pdf">Resume</a>
 
 ## Current Project
 
